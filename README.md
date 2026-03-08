@@ -74,5 +74,5 @@ export default defineConfig([
 ])
 ```
 ```
-HELLO RAHUL NAMASTE ....fdzvvvvvvvvvvvvvvvvvvvvvv
+HELLO RAHUL NAMASTE ....
 ```
